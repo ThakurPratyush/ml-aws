@@ -49,6 +49,7 @@ class DataTransformation:
                 ]
             )
             
+            
             logging.info(f"numerical columns:{numerical_columns}")
             logging.info(f"categorical columns : {categorical_columns}")
             
