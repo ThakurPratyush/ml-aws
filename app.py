@@ -7,7 +7,7 @@ from src.pipeline.predict_pipeline import CustomData, PredictPipeline
 
 ## setting application name 
 application = Flask(__name__)
-# entry point for app
+
 
 app = application
 ## route for home page
